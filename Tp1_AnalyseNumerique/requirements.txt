@@ -1,3 +1,6 @@
 numpy==1.18.5
 pandas==1.0.5
 matplotlib==3.2.2
+scipy==1.5.0
+sympy.multipledispatch==0.4.9
+sympy.release==1.6.1
